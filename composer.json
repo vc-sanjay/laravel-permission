@@ -1,5 +1,5 @@
 {
-    "name": "viitorcloud/laravel-permission",
+    "name": "sanjaysa/laravel-permission",
     "autoload": {
         "psr-4": {
             "Viitorcloud\\LaravelPermission\\": "src/"
