@@ -1,0 +1,15 @@
+{
+    "name": "viitorcloud/laravel-permission",
+    "autoload": {
+        "psr-4": {
+            "Viitorcloud\\LaravelPermission\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VC-Sanjay",
+            "email": "sanjay.sagathiya@viitor.cloud"
+        }
+    ],
+    "require": {}
+}
